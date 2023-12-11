@@ -1,0 +1,4 @@
+Para executar os algoritmos de christofides e twice around the tree:
+> python3 main.py tsp_datasets.txt
+Para verificar a memória: 
+> python3 -m memory_profiler main.py tsp_datasets.txt 
